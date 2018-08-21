@@ -1,6 +1,6 @@
 {
   "name": "small-array-zip",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Array.zip in 126 bytes",
   "main": "index.js",
   "scripts": {

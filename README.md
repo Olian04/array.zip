@@ -2,7 +2,7 @@
 
 `Array.zip` in 126 bytes.
 
-__NPM:__ `npm i array.zip`
+__NPM:__ `npm i small-array-zip`
 
 ```js
 require('small-array-zip');
