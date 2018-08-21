@@ -1,0 +1,23 @@
+{
+  "name": "small-array-zip",
+  "version": "1.0.0",
+  "description": "Array.zip in 126 bytes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olian04/array.zip.git"
+  },
+  "keywords": [
+    "array",
+    "zip"
+  ],
+  "author": "Olian04",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Olian04/array.zip/issues"
+  },
+  "homepage": "https://github.com/Olian04/array.zip#readme"
+}
